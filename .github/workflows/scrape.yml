@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install aiohttp aiohttp_retry requests
+          pip install aiohttp aiohttp_retry requests tqdm
       - name: Run us.py
         # Pass the secret dynamically using GitHub Actions syntax
         run: python us.py --key "${{ secrets.USA_SCRIPT_KEY }}"
