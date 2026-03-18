@@ -9523,5 +9523,7670 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "FL",
+    "city": "Gainesville",
+    "zip": "32607",
+    "theater_name": "Regal Royal Park",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536772954,
+    "date": "2026-03-18+18:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Cambridge",
+    "zip": "02138",
+    "theater_name": "Apple Cinemas Cambridge",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 536744897,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Cambridge",
+    "zip": "02138",
+    "theater_name": "Apple Cinemas Cambridge",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 538800439,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Cambridge",
+    "zip": "02138",
+    "theater_name": "Apple Cinemas Cambridge",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537563250,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02114",
+    "theater_name": "AMC Causeway 13",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538907879,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02114",
+    "theater_name": "AMC Causeway 13",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538174970,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02114",
+    "theater_name": "AMC Causeway 13",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539570595,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02114",
+    "theater_name": "AMC Causeway 13",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538174980,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02111",
+    "theater_name": "AMC Boston Common 19",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538691466,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02111",
+    "theater_name": "AMC Boston Common 19",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537859109,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02111",
+    "theater_name": "AMC Boston Common 19",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538218051,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Boston",
+    "zip": "02111",
+    "theater_name": "AMC Boston Common 19",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539039136,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Danvers",
+    "zip": "01923",
+    "theater_name": "AMC Loews Liberty Tree Mall 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538500120,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Danvers",
+    "zip": "01923",
+    "theater_name": "AMC Loews Liberty Tree Mall 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539308829,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orange Park",
+    "zip": "32073",
+    "theater_name": "AMC Orange Park 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537494355,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32256",
+    "theater_name": "Regal Avenues 4DX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536701458,
+    "date": "2026-03-18+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538802266,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537468582,
+    "date": "2026-03-18+22:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537441279,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539101188,
+    "date": "2026-03-18+19:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539101187,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538723558,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538723559,
+    "date": "2026-03-18+21:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "St. Johns",
+    "zip": "32259",
+    "theater_name": "Cinemark Durbin Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536875180,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "St. Johns",
+    "zip": "32259",
+    "theater_name": "Cinemark Durbin Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538778874,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "St. Johns",
+    "zip": "32259",
+    "theater_name": "Cinemark Durbin Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538980797,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "St. Johns",
+    "zip": "32259",
+    "theater_name": "Cinemark Durbin Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537726155,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32225",
+    "theater_name": "AMC Regency 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536767571,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32225",
+    "theater_name": "AMC Regency 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538368693,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32225",
+    "theater_name": "AMC Regency 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539038500,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32225",
+    "theater_name": "Cinemark Jacksonville Atlantic North and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536872950,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32225",
+    "theater_name": "Cinemark Jacksonville Atlantic North and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538817862,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Playa Vista",
+    "zip": "90094",
+    "theater_name": "Cinemark Playa Vista and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536869714,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90045",
+    "theater_name": "Cinemark Howard Hughes Los Angeles and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537357867,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90045",
+    "theater_name": "Cinemark Howard Hughes Los Angeles and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537357868,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90045",
+    "theater_name": "Cinemark Howard Hughes Los Angeles and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537357869,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90067",
+    "theater_name": "AMC Century City 15",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538379077,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90067",
+    "theater_name": "AMC Century City 15",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538379082,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90067",
+    "theater_name": "AMC Century City 15",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538379083,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90008",
+    "theater_name": "Cinemark Baldwin Hills Crenshaw and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536991566,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Redondo Beach",
+    "zip": "90278",
+    "theater_name": "AMC South Bay Galleria 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537999662,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Redondo Beach",
+    "zip": "90278",
+    "theater_name": "AMC South Bay Galleria 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537999663,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Redondo Beach",
+    "zip": "90278",
+    "theater_name": "AMC South Bay Galleria 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539457761,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Sherman Oaks",
+    "zip": "91403",
+    "theater_name": "Regal Sherman Oaks Galleria",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539227336,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Sherman Oaks",
+    "zip": "91403",
+    "theater_name": "Regal Sherman Oaks Galleria",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539227333,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Universal City",
+    "zip": "91608",
+    "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538659398,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Universal City",
+    "zip": "91608",
+    "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538659376,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Torrance",
+    "zip": "90505",
+    "theater_name": "AMC Rolling Hills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538034178,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Torrance",
+    "zip": "90505",
+    "theater_name": "AMC Rolling Hills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596109,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "North Hollywood",
+    "zip": "91606",
+    "theater_name": "Cinemark Century North Hollywood",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538052820,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Jacinto City",
+    "zip": "77029",
+    "theater_name": "Cinemark Tinseltown Jacinto City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537324257,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Jacinto City",
+    "zip": "77029",
+    "theater_name": "Cinemark Tinseltown Jacinto City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537324256,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Humble",
+    "zip": "77338",
+    "theater_name": "AMC Deerbrook 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538788709,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "AMC Pacific Place 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537428308,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "AMC Pacific Place 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539336559,
+    "date": "2026-03-18+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "AMC Pacific Place 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536840054,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538833662,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538834771,
+    "date": "2026-03-18+16:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539148577,
+    "date": "2026-03-18+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538833660,
+    "date": "2026-03-18+18:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537977388,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536729444,
+    "date": "2026-03-18+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539623814,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538751110,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538751111,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98101",
+    "theater_name": "Regal Meridian & 4DX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537650033,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98125",
+    "theater_name": "Regal Thornton Place ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536712149,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98125",
+    "theater_name": "Regal Thornton Place ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539159549,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Downey",
+    "zip": "90242",
+    "theater_name": "Cinemark Downey and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536947632,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537457180,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537858575,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537858576,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538027507,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538621647,
+    "date": "2026-03-18+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538621652,
+    "date": "2026-03-18+20:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538621668,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538621670,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Salem",
+    "zip": "03079",
+    "theater_name": "Cinemark Rockingham Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537577913,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Salem",
+    "zip": "03079",
+    "theater_name": "Cinemark Rockingham Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537280000,
+    "date": "2026-03-18+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Salem",
+    "zip": "03079",
+    "theater_name": "Cinemark Rockingham Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539007114,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Tyngsboro",
+    "zip": "01879",
+    "theater_name": "AMC Tyngsboro 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538825784,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Tyngsboro",
+    "zip": "01879",
+    "theater_name": "AMC Tyngsboro 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539515419,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537377683,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537797319,
+    "date": "2026-03-18+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539352011,
+    "date": "2026-03-18+17:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538933028,
+    "date": "2026-03-18+17:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538933027,
+    "date": "2026-03-18+18:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537377685,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538992261,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538992260,
+    "date": "2026-03-18+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537377684,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539188685,
+    "date": "2026-03-18+21:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537797320,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539475493,
+    "date": "2026-03-18+21:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Reserve Lincoln Square Dine-In \u2013 21+",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539059779,
+    "date": "2026-03-18+16:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537798108,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537584261,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538524438,
+    "date": "2026-03-18+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539067551,
+    "date": "2026-03-18+17:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539067553,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537798112,
+    "date": "2026-03-18+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538524439,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539067552,
+    "date": "2026-03-18+21:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539067554,
+    "date": "2026-03-18+22:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98006",
+    "theater_name": "AMC Loews Factoria 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537970406,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98006",
+    "theater_name": "AMC Loews Factoria 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537593218,
+    "date": "2026-03-18+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98006",
+    "theater_name": "AMC Loews Factoria 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538862913,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Lynnwood",
+    "zip": "98037",
+    "theater_name": "AMC Loews Alderwood Mall 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537334424,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Lynnwood",
+    "zip": "98037",
+    "theater_name": "AMC Loews Alderwood Mall 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538578267,
+    "date": "2026-03-18+17:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Lynnwood",
+    "zip": "98037",
+    "theater_name": "AMC Loews Alderwood Mall 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537334425,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Lynnwood",
+    "zip": "98037",
+    "theater_name": "AMC Loews Alderwood Mall 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538578257,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Lynnwood",
+    "zip": "98037",
+    "theater_name": "AMC Loews Alderwood Mall 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538578271,
+    "date": "2026-03-18+21:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537298631,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537298632,
+    "date": "2026-03-18+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539162548,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536700446,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536700447,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Woodinville",
+    "zip": "98072",
+    "theater_name": "AMC Loews Woodinville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538056670,
+    "date": "2026-03-18+17:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Woodinville",
+    "zip": "98072",
+    "theater_name": "AMC Loews Woodinville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538378897,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Woodinville",
+    "zip": "98072",
+    "theater_name": "AMC Loews Woodinville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538056671,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Woodinville",
+    "zip": "98072",
+    "theater_name": "AMC Loews Woodinville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538378898,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Woodinville",
+    "zip": "98072",
+    "theater_name": "AMC Loews Woodinville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539022974,
+    "date": "2026-03-18+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Woodinville",
+    "zip": "98072",
+    "theater_name": "AMC Loews Woodinville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539022975,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537940850,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538873080,
+    "date": "2026-03-18+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539014491,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536748657,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536813843,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536748659,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Joliet",
+    "zip": "60431",
+    "theater_name": "Cinemark Louis Joliet Mall",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538603889,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Naperville",
+    "zip": "60564",
+    "theater_name": "AMC Naperville 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536933436,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Naperville",
+    "zip": "60564",
+    "theater_name": "AMC Naperville 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538049954,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Naperville",
+    "zip": "60564",
+    "theater_name": "AMC Naperville 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538253316,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "North Aurora",
+    "zip": "60542",
+    "theater_name": "Cinemark Tinseltown USA Aurora",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537451366,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "North Aurora",
+    "zip": "60542",
+    "theater_name": "Cinemark Tinseltown USA Aurora",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539051302,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "North Aurora",
+    "zip": "60542",
+    "theater_name": "Cinemark Tinseltown USA Aurora",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538881432,
+    "date": "2026-03-18+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Springfield",
+    "zip": "19064",
+    "theater_name": "AMC Marple 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539456097,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "King Of Prussia",
+    "zip": "19406",
+    "theater_name": "Regal UA King Of Prussia 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536817239,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "King Of Prussia",
+    "zip": "19406",
+    "theater_name": "Regal UA King Of Prussia 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538705097,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "King Of Prussia",
+    "zip": "19406",
+    "theater_name": "Regal UA King Of Prussia 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536817240,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "King Of Prussia",
+    "zip": "19406",
+    "theater_name": "Regal UA King Of Prussia 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538705098,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "West Chester",
+    "zip": "19382",
+    "theater_name": "AMC DINE-IN Painters Crossing 9",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539327615,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Oaks",
+    "zip": "19456",
+    "theater_name": "Oaks Center Cinema D-Box & OCX",
+    "chainName": "Veezi Theaters",
+    "chainCode": "VZ",
+    "showtime_id": 538652988,
+    "date": "2026-03-18+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Oaks",
+    "zip": "19456",
+    "theater_name": "Oaks Center Cinema D-Box & OCX",
+    "chainName": "Veezi Theaters",
+    "chainCode": "VZ",
+    "showtime_id": 537536072,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Exton",
+    "zip": "19341",
+    "theater_name": "Movie Tavern Exton",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 539056576,
+    "date": "2026-03-18+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Wilmington",
+    "zip": "19803",
+    "theater_name": "Regal Brandywine Town Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536690231,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Wilmington",
+    "zip": "19803",
+    "theater_name": "Regal Brandywine Town Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539295860,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Plymouth Meeting",
+    "zip": "19462",
+    "theater_name": "AMC Plymouth Meeting Mall 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538354543,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Philadelphia",
+    "zip": "19104",
+    "theater_name": "Cinemark University City Penn 6",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538910429,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Philadelphia",
+    "zip": "19104",
+    "theater_name": "Cinemark University City Penn 6",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539041595,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536728194,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536728195,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536728197,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537976041,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538496716,
+    "date": "2026-03-18+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538496718,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538985540,
+    "date": "2026-03-18+21:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537395306,
+    "date": "2026-03-18+22:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537226878,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538782883,
+    "date": "2026-03-18+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538842403,
+    "date": "2026-03-18+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Beavercreek",
+    "zip": "45440",
+    "theater_name": "Cinemark The Greene 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538488401,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Beavercreek",
+    "zip": "45440",
+    "theater_name": "Cinemark The Greene 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539303155,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "zip": "08002",
+    "theater_name": "AMC Cherry Hill 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536994798,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "zip": "08002",
+    "theater_name": "AMC Cherry Hill 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538783722,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Warrington",
+    "zip": "18976",
+    "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536745246,
+    "date": "2026-03-18+19:00",
+    "format": "RPX",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Warrington",
+    "zip": "18976",
+    "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536745247,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77064",
+    "theater_name": "AMC Willowbrook 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538598353,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77064",
+    "theater_name": "AMC Willowbrook 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536820773,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77064",
+    "theater_name": "AMC Willowbrook 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538158335,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77040",
+    "theater_name": "Cinemark Tinseltown Houston 290 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537397374,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77040",
+    "theater_name": "Cinemark Tinseltown Houston 290 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537397320,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77040",
+    "theater_name": "Cinemark Tinseltown Houston 290 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538873463,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77040",
+    "theater_name": "Cinemark Tinseltown Houston 290 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538873464,
+    "date": "2026-03-18+21:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Cypress",
+    "zip": "77429",
+    "theater_name": "Cinemark Cypress and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537139331,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Cypress",
+    "zip": "77429",
+    "theater_name": "Cinemark Cypress and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538940043,
+    "date": "2026-03-18+18:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Cypress",
+    "zip": "77429",
+    "theater_name": "Cinemark Cypress and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539579039,
+    "date": "2026-03-18+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Cypress",
+    "zip": "77429",
+    "theater_name": "Cinemark Cypress and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537726141,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77024",
+    "theater_name": "Cinemark Memorial City",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537308968,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77024",
+    "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536680217,
+    "date": "2026-03-18+20:15",
+    "format": "RPX",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77024",
+    "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536680218,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Spring",
+    "zip": "77379",
+    "theater_name": "Cinemark Spring-Klein and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537404082,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Spring",
+    "zip": "77379",
+    "theater_name": "Cinemark Spring-Klein and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538181475,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Tomball",
+    "zip": "77375",
+    "theater_name": "Regal Lone Star IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536765978,
+    "date": "2026-03-18+19:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77027",
+    "theater_name": "Regal Edwards Greenway Grand Palace ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536746481,
+    "date": "2026-03-18+20:25",
+    "format": "RPX",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77027",
+    "theater_name": "Regal Edwards Greenway Grand Palace ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536746459,
+    "date": "2026-03-18+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77027",
+    "theater_name": "Regal Edwards Greenway Grand Palace ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538900963,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Tukwila",
+    "zip": "98188",
+    "theater_name": "AMC Southcenter 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538566954,
+    "date": "2026-03-18+16:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Tukwila",
+    "zip": "98188",
+    "theater_name": "AMC Southcenter 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538566968,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Somerdale",
+    "zip": "08083",
+    "theater_name": "Cinemark Somerdale 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537432532,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Somerdale",
+    "zip": "08083",
+    "theater_name": "Cinemark Somerdale 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539166697,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Somerdale",
+    "zip": "08083",
+    "theater_name": "Cinemark Somerdale 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537432533,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Moorestown",
+    "zip": "08057",
+    "theater_name": "Regal Moorestown Mall & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536703562,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Voorhees",
+    "zip": "08043",
+    "theater_name": "AMC Voorhees 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537488761,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Woodhaven 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539152331,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Woodhaven 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539152332,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bolingbrook",
+    "zip": "60440",
+    "theater_name": "Regal Bolingbrook",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537959389,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bolingbrook",
+    "zip": "60440",
+    "theater_name": "Regal Bolingbrook",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536677091,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 538737728,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 538569874,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 539217439,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Woodridge",
+    "zip": "60517",
+    "theater_name": "Cinemark Seven Bridges and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537415265,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Woodridge",
+    "zip": "60517",
+    "theater_name": "Cinemark Seven Bridges and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538618036,
+    "date": "2026-03-18+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Woodridge",
+    "zip": "60517",
+    "theater_name": "Cinemark Seven Bridges and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539429416,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Merrimack",
+    "zip": "03054",
+    "theater_name": "Apple Cinemas Merrimack",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537564008,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Merrimack",
+    "zip": "03054",
+    "theater_name": "Apple Cinemas Merrimack",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 536745486,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536880718,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537769929,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536880719,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538872313,
+    "date": "2026-03-18+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538872314,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538775768,
+    "date": "2026-03-18+19:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538775769,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538872312,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77449",
+    "theater_name": "Cinemark Katy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539579304,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536793006,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539029687,
+    "date": "2026-03-18+18:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537990434,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538728094,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538728093,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537990435,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539038615,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Everett",
+    "zip": "98208",
+    "theater_name": "Regal Everett Stadium 16 & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537376913,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Everett",
+    "zip": "98208",
+    "theater_name": "Regal Everett Stadium 16 & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536707657,
+    "date": "2026-03-18+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Everett",
+    "zip": "98208",
+    "theater_name": "Regal Everett Stadium 16 & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539091428,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Issaquah",
+    "zip": "98029",
+    "theater_name": "Regal Issaquah Highlands IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536727086,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77089",
+    "theater_name": "AMC Gulf Pointe 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536718654,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77089",
+    "theater_name": "AMC Gulf Pointe 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539340037,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pearland",
+    "zip": "77584",
+    "theater_name": "Cinemark Pearland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536872315,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pearland",
+    "zip": "77584",
+    "theater_name": "Cinemark Pearland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536872316,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pearland",
+    "zip": "77584",
+    "theater_name": "Cinemark Pearland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539000733,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pearland",
+    "zip": "77584",
+    "theater_name": "Cinemark Pearland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539000732,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Webster",
+    "zip": "77598",
+    "theater_name": "Cinemark NASA and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537854043,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Webster",
+    "zip": "77598",
+    "theater_name": "Cinemark NASA and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537048545,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Webster",
+    "zip": "77598",
+    "theater_name": "Cinemark NASA and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539579121,
+    "date": "2026-03-18+18:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Port Orange",
+    "zip": "32128",
+    "theater_name": "Regal Pavilion & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536756150,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Oviedo",
+    "zip": "32765",
+    "theater_name": "Regal Oviedo Mall",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536759497,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Altamonte Springs",
+    "zip": "32701",
+    "theater_name": "AMC Altamonte Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536767993,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Altamonte Springs",
+    "zip": "32701",
+    "theater_name": "AMC Altamonte Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538361657,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Altamonte Springs",
+    "zip": "32701",
+    "theater_name": "AMC Altamonte Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539299448,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Winter Park",
+    "zip": "32789",
+    "theater_name": "Regal Winter Park Village & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536715564,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32828",
+    "theater_name": "Regal Waterford Lakes 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536716714,
+    "date": "2026-03-18+20:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Neshaminy 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538775998,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Neshaminy 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596425,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Neshaminy 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538775997,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90802",
+    "theater_name": "Cinemark At The Pike Outlets and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537147427,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90802",
+    "theater_name": "Cinemark At The Pike Outlets and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537147428,
+    "date": "2026-03-18+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90802",
+    "theater_name": "Cinemark At The Pike Outlets and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537147429,
+    "date": "2026-03-18+21:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Cerritos",
+    "zip": "90703",
+    "theater_name": "Harkins Cerritos 16",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 538801776,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Ocoee",
+    "zip": "34761",
+    "theater_name": "AMC West Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536767973,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Ocoee",
+    "zip": "34761",
+    "theater_name": "AMC West Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538976830,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Ocoee",
+    "zip": "34761",
+    "theater_name": "AMC West Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537963111,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Universal Cinemark at CityWalk and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537235510,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Universal Cinemark at CityWalk and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537235511,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538802259,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537417002,
+    "date": "2026-03-18+22:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537417001,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538931109,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538931108,
+    "date": "2026-03-18+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537498682,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537498683,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538754046,
+    "date": "2026-03-18+18:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539146943,
+    "date": "2026-03-18+18:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539591929,
+    "date": "2026-03-18+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "New Caney",
+    "zip": "77357",
+    "theater_name": "Cinemark Valley Ranch and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537180125,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Spring",
+    "zip": "77386",
+    "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539034308,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Spring",
+    "zip": "77386",
+    "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536744664,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Regal Pointe Orlando 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536694232,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Framingham",
+    "zip": "01701",
+    "theater_name": "AMC Framingham 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537867036,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Framingham",
+    "zip": "01701",
+    "theater_name": "AMC Framingham 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538429964,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Kingston",
+    "zip": "02364",
+    "theater_name": "Regal Independence Mall & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536823341,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Hooksett",
+    "zip": "03106",
+    "theater_name": "Apple Cinemas Hooksett IMAX",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537563483,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Hooksett",
+    "zip": "03106",
+    "theater_name": "Apple Cinemas Hooksett IMAX",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537962466,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Marlborough",
+    "zip": "01752",
+    "theater_name": "Regal Solomon Pond",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536662564,
+    "date": "2026-03-18+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Marlborough",
+    "zip": "01752",
+    "theater_name": "Regal Solomon Pond",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539620244,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90808",
+    "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536756599,
+    "date": "2026-03-18+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fullerton",
+    "zip": "92832",
+    "theater_name": "AMC DINE-IN Fullerton 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537264834,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fullerton",
+    "zip": "92832",
+    "theater_name": "AMC DINE-IN Fullerton 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537264833,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fullerton",
+    "zip": "92832",
+    "theater_name": "AMC DINE-IN Fullerton 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538429735,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fullerton",
+    "zip": "92832",
+    "theater_name": "AMC DINE-IN Fullerton 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538429739,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fullerton",
+    "zip": "92832",
+    "theater_name": "AMC DINE-IN Fullerton 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538429762,
+    "date": "2026-03-18+17:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537513765,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539582614,
+    "date": "2026-03-18+16:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539582615,
+    "date": "2026-03-18+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537999659,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538765364,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537513766,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539550202,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538359423,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538765363,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539633930,
+    "date": "2026-03-18+21:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "zip": "92647",
+    "theater_name": "Cinemark Century Huntington Beach and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537491192,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "zip": "92647",
+    "theater_name": "Cinemark Century Huntington Beach and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537491193,
+    "date": "2026-03-18+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "zip": "92647",
+    "theater_name": "Cinemark Century Huntington Beach and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537491199,
+    "date": "2026-03-18+16:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "zip": "92647",
+    "theater_name": "Cinemark Century Huntington Beach and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537491200,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538894349,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538811737,
+    "date": "2026-03-18+17:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596106,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538312923,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92867",
+    "theater_name": "Cinemark Century Orange and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537435047,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92867",
+    "theater_name": "Cinemark Century Orange and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538978366,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92867",
+    "theater_name": "Cinemark Century Orange and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537435048,
+    "date": "2026-03-18+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92867",
+    "theater_name": "Cinemark Century Orange and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538978365,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92867",
+    "theater_name": "Cinemark Century Orange and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537435049,
+    "date": "2026-03-18+20:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "City Of Industry",
+    "zip": "91748",
+    "theater_name": "AMC Puente Hills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538268071,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "City Of Industry",
+    "zip": "91748",
+    "theater_name": "AMC Puente Hills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538268072,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "City Of Industry",
+    "zip": "91748",
+    "theater_name": "AMC Puente Hills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538477991,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Monterey Park",
+    "zip": "91754",
+    "theater_name": "AMC Atlantic Times Square 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538884940,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Monterey Park",
+    "zip": "91754",
+    "theater_name": "AMC Atlantic Times Square 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538299200,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kent",
+    "zip": "98032",
+    "theater_name": "AMC Kent Station 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538342166,
+    "date": "2026-03-18+16:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kent",
+    "zip": "98032",
+    "theater_name": "AMC Kent Station 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538342156,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537785112,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537565892,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539027449,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538779301,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Auburn",
+    "zip": "98001",
+    "theater_name": "Regal Auburn - Washington",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537375594,
+    "date": "2026-03-18+16:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Auburn",
+    "zip": "98001",
+    "theater_name": "Regal Auburn - Washington",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539362772,
+    "date": "2026-03-18+18:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Tacoma",
+    "zip": "98407",
+    "theater_name": "Cinemark Century Point Ruston and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537020701,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Langhorne",
+    "zip": "19047",
+    "theater_name": "Regal UA Oxford Valley",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539022281,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Burlington",
+    "zip": "08016",
+    "theater_name": "Regal Burlington",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536685784,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Burlington",
+    "zip": "08016",
+    "theater_name": "Regal Burlington",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536685785,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Burlington",
+    "zip": "08016",
+    "theater_name": "Regal Burlington",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536685786,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellingham",
+    "zip": "98226",
+    "theater_name": "Regal Barkley Village IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536719237,
+    "date": "2026-03-18+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Crestwood",
+    "zip": "60148",
+    "theater_name": "AMC Crestwood 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538553772,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537961068,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538884879,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537600459,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538430024,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539038342,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537600457,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538986349,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539026519,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537600456,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537824586,
+    "date": "2026-03-18+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538789582,
+    "date": "2026-03-18+22:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Missouri City",
+    "zip": "77459",
+    "theater_name": "Cinemark Missouri City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537832152,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Missouri City",
+    "zip": "77459",
+    "theater_name": "Cinemark Missouri City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539351045,
+    "date": "2026-03-18+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Missouri City",
+    "zip": "77459",
+    "theater_name": "Cinemark Missouri City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 536875738,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Missouri City",
+    "zip": "77459",
+    "theater_name": "Cinemark Missouri City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538899516,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Missouri City",
+    "zip": "77459",
+    "theater_name": "Cinemark Missouri City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538492579,
+    "date": "2026-03-18+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537979755,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537007799,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537825627,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538834557,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538834585,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539029428,
+    "date": "2026-03-18+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537007800,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539439236,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539029427,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Covina",
+    "zip": "91722",
+    "theater_name": "AMC Covina 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538660540,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Covina",
+    "zip": "91722",
+    "theater_name": "AMC Covina 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537826326,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Covina",
+    "zip": "91722",
+    "theater_name": "AMC Covina 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538660541,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Chino Hills",
+    "zip": "91709",
+    "theater_name": "Harkins Chino Hills 18",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 539491391,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Wilmington",
+    "zip": "19804",
+    "theater_name": "Cinemark Wilmington Movies 10",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537357057,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537965351,
+    "date": "2026-03-18+22:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537508990,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538933159,
+    "date": "2026-03-18+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537731645,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538933158,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539340432,
+    "date": "2026-03-18+21:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Newark",
+    "zip": "19702",
+    "theater_name": "Regal Peoples Plaza",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536686227,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Newark",
+    "zip": "19702",
+    "theater_name": "Regal Peoples Plaza",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538928982,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Newark",
+    "zip": "19702",
+    "theater_name": "Regal Peoples Plaza",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537528247,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Bellingham",
+    "zip": "02019",
+    "theater_name": "Regal Bellingham",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536770115,
+    "date": "2026-03-18+19:10",
+    "format": "RPX",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Bellingham",
+    "zip": "02019",
+    "theater_name": "Regal Bellingham",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536770117,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "RI",
+    "city": "Providence",
+    "zip": "02903",
+    "theater_name": "Apple Cinemas Providence Place IMAX",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537962044,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "RI",
+    "city": "Providence",
+    "zip": "02903",
+    "theater_name": "Apple Cinemas Providence Place IMAX",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537962049,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "RI",
+    "city": "Warwick",
+    "zip": "02886",
+    "theater_name": "Apple Cinemas Warwick",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 537964182,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Glendale",
+    "zip": "91210",
+    "theater_name": "AMC The Americana at Brand 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538567317,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Glendale",
+    "zip": "91210",
+    "theater_name": "AMC The Americana at Brand 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538567319,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tallahassee",
+    "zip": "32303",
+    "theater_name": "AMC Tallahassee 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536767977,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tallahassee",
+    "zip": "32303",
+    "theater_name": "AMC Tallahassee 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539018799,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tallahassee",
+    "zip": "32303",
+    "theater_name": "AMC Tallahassee 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538019108,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tallahassee",
+    "zip": "32303",
+    "theater_name": "AMC Tallahassee 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537597702,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tallahassee",
+    "zip": "32303",
+    "theater_name": "AMC Tallahassee 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538379643,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Miramar Beach",
+    "zip": "32550",
+    "theater_name": "AMC Boulevard 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538893506,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Dothan",
+    "zip": "36303",
+    "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538656900,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Pensacola",
+    "zip": "32505",
+    "theater_name": "AMC CLASSIC Pensacola 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536763682,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Daphne",
+    "zip": "36526",
+    "theater_name": "AMC CLASSIC Jubilee Square 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538619191,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bourbonnais",
+    "zip": "60914",
+    "theater_name": "Cinemark Bourbonnais Movies 10",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538873156,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Schererville",
+    "zip": "46375",
+    "theater_name": "AMC Schererville 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538624718,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Schererville",
+    "zip": "46375",
+    "theater_name": "AMC Schererville 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596211,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Rockford",
+    "zip": "61108",
+    "theater_name": "AMC Rockford 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538625032,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WI",
+    "city": "Fitchburg",
+    "zip": "53719",
+    "theater_name": "AMC Fitchburg 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538238499,
+    "date": "2026-03-18+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WI",
+    "city": "Fitchburg",
+    "zip": "53719",
+    "theater_name": "AMC Fitchburg 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596105,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WI",
+    "city": "Fitchburg",
+    "zip": "53719",
+    "theater_name": "AMC Fitchburg 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538853425,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WI",
+    "city": "Fitchburg",
+    "zip": "53719",
+    "theater_name": "AMC Fitchburg 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538853426,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WI",
+    "city": "Fitchburg",
+    "zip": "53719",
+    "theater_name": "AMC Fitchburg 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537999658,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Carmel",
+    "zip": "46033",
+    "theater_name": "Regal Village Park",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538749972,
+    "date": "2026-03-18+18:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Carmel",
+    "zip": "46033",
+    "theater_name": "Regal Village Park",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536664783,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46250",
+    "theater_name": "AMC Castleton Square 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537556243,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46250",
+    "theater_name": "AMC Castleton Square 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538502282,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46250",
+    "theater_name": "AMC Castleton Square 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538502281,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46256",
+    "theater_name": "Regal UA Galaxy - Indianapolis",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537129922,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46256",
+    "theater_name": "Regal UA Galaxy - Indianapolis",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537799148,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46256",
+    "theater_name": "Regal UA Galaxy - Indianapolis",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537969625,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46256",
+    "theater_name": "Regal UA Galaxy - Indianapolis",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539028104,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Noblesville",
+    "zip": "46060",
+    "theater_name": "Emagine Noblesville",
+    "chainName": "Emagine",
+    "chainCode": "EMAG",
+    "showtime_id": 538899680,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IA",
+    "city": "Davenport",
+    "zip": "52807",
+    "theater_name": "Cinemark Davenport 18 XD and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537459973,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IA",
+    "city": "Davenport",
+    "zip": "52807",
+    "theater_name": "Cinemark Davenport 18 XD and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537326622,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Burbank",
+    "zip": "91501",
+    "theater_name": "AMC Burbank Town Center 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538625404,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Burbank",
+    "zip": "91501",
+    "theater_name": "AMC Burbank Town Center 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537634272,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Burbank",
+    "zip": "91501",
+    "theater_name": "AMC Burbank Town Center 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538625393,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Burbank",
+    "zip": "91502",
+    "theater_name": "AMC Burbank 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538628705,
+    "date": "2026-03-18+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Burbank",
+    "zip": "91502",
+    "theater_name": "AMC Burbank 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538628696,
+    "date": "2026-03-18+18:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Valparaiso",
+    "zip": "46383",
+    "theater_name": "Cinemark Valparaiso",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537233757,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Allentown",
+    "zip": "18106",
+    "theater_name": "Movie Tavern Trexlertown",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 538230442,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Center Valley",
+    "zip": "18034",
+    "theater_name": "AMC Center Valley 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596423,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Center Valley",
+    "zip": "18034",
+    "theater_name": "AMC Center Valley 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538788940,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Avon",
+    "zip": "46123",
+    "theater_name": "Regal Shiloh Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536662640,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Avon",
+    "zip": "46123",
+    "theater_name": "Regal Shiloh Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536662641,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Plainfield",
+    "zip": "46168",
+    "theater_name": "AMC Perry Crossing 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538567478,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Ocala",
+    "zip": "34474",
+    "theater_name": "Regal Hollywood ScreenX & IMAX - Ocala",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536691064,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Ocala",
+    "zip": "34474",
+    "theater_name": "Regal Hollywood ScreenX & IMAX - Ocala",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538466195,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46217",
+    "theater_name": "AMC Indianapolis 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538640506,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46217",
+    "theater_name": "AMC Indianapolis 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538921354,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46227",
+    "theater_name": "Cinemark Greenwood Corner",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538803825,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Greenwood",
+    "zip": "46142",
+    "theater_name": "Regal Greenwood & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536668340,
+    "date": "2026-03-18+19:00",
+    "format": "RPX",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Greenwood",
+    "zip": "46142",
+    "theater_name": "Regal Greenwood & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536668341,
+    "date": "2026-03-18+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Peoria",
+    "zip": "61615",
+    "theater_name": "AMC Grand Prairie 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537955785,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Peoria",
+    "zip": "61615",
+    "theater_name": "AMC Grand Prairie 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596421,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Peoria",
+    "zip": "61615",
+    "theater_name": "AMC Grand Prairie 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538531182,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Olympia",
+    "zip": "98502",
+    "theater_name": "Cinemark Century Olympia",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537602117,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Olympia",
+    "zip": "98502",
+    "theater_name": "Cinemark Century Olympia",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537602118,
+    "date": "2026-03-18+20:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "zip": "93063",
+    "theater_name": "Regal Simi Valley Civic Center & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537466227,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "zip": "93063",
+    "theater_name": "Regal Simi Valley Civic Center & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538994685,
+    "date": "2026-03-18+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "zip": "93063",
+    "theater_name": "Regal Simi Valley Civic Center & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538322481,
+    "date": "2026-03-18+18:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "zip": "93063",
+    "theater_name": "Regal Simi Valley Civic Center & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538956847,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "zip": "93063",
+    "theater_name": "Regal Simi Valley Civic Center & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536736971,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Northridge",
+    "zip": "91324",
+    "theater_name": "AMC Northridge 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538386395,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Northridge",
+    "zip": "91324",
+    "theater_name": "AMC Northridge 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538971378,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Northridge",
+    "zip": "91324",
+    "theater_name": "AMC Northridge 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537117396,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Northridge",
+    "zip": "91324",
+    "theater_name": "AMC Northridge 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538719163,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Northridge",
+    "zip": "91324",
+    "theater_name": "AMC Northridge 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538386396,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Thousand Oaks",
+    "zip": "91360",
+    "theater_name": "AMC Thousand Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538502750,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Thousand Oaks",
+    "zip": "91360",
+    "theater_name": "AMC Thousand Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539441727,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Thousand Oaks",
+    "zip": "91360",
+    "theater_name": "AMC Thousand Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538502767,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Thousand Oaks",
+    "zip": "91360",
+    "theater_name": "AMC Thousand Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538502751,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bloomington",
+    "zip": "61701",
+    "theater_name": "Marcus Bloomington Cinema + IMAX",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 536732406,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bloomington",
+    "zip": "61701",
+    "theater_name": "Marcus Bloomington Cinema + IMAX",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 538075572,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bloomington",
+    "zip": "61701",
+    "theater_name": "Marcus Bloomington Cinema + IMAX",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 538849322,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bloomington",
+    "zip": "61701",
+    "theater_name": "Marcus Bloomington Cinema + IMAX",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 536732407,
+    "date": "2026-03-18+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Normal",
+    "zip": "61761",
+    "theater_name": "AMC CLASSIC Normal 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538427879,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Lake Buena Vista",
+    "zip": "32830",
+    "theater_name": "AMC DINE-IN Disney Springs\u2122 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537488411,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Melbourne",
+    "zip": "32940",
+    "theater_name": "AMC Avenue 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538019133,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Melbourne",
+    "zip": "32940",
+    "theater_name": "AMC Avenue 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596216,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "West Melbourne",
+    "zip": "32904",
+    "theater_name": "AMC West Melbourne 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537596214,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "West Melbourne",
+    "zip": "32904",
+    "theater_name": "AMC West Melbourne 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538579785,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DC",
+    "city": "Washington",
+    "zip": "20007",
+    "theater_name": "AMC Georgetown 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537859061,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DC",
+    "city": "Washington",
+    "zip": "20007",
+    "theater_name": "AMC Georgetown 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538983769,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DC",
+    "city": "Washington",
+    "zip": "20007",
+    "theater_name": "AMC Georgetown 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538160039,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Silver Spring",
+    "zip": "20910",
+    "theater_name": "Regal Majestic & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536779763,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Silver Spring",
+    "zip": "20910",
+    "theater_name": "Regal Majestic & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538458963,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Alexandria",
+    "zip": "22314",
+    "theater_name": "AMC Hoffman Center 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536851629,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "McLean",
+    "zip": "22102",
+    "theater_name": "AMC Tysons Corner 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538662215,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Alexandria",
+    "zip": "22315",
+    "theater_name": "Regal Kingstowne ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536755253,
+    "date": "2026-03-18+19:00",
+    "format": "RPX",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Alexandria",
+    "zip": "22315",
+    "theater_name": "Regal Kingstowne ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536755254,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22031",
+    "theater_name": "Angelika Film Center & Cafe at Mosaic",
+    "chainName": "Angelika Film Center",
+    "chainCode": "AFC",
+    "showtime_id": 539048541,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536733528,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 539543059,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536733529,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538755269,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Champaign",
+    "zip": "61822",
+    "theater_name": "AMC Champaign 13",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538497907,
+    "date": "2026-03-18+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Savoy",
+    "zip": "61874",
+    "theater_name": "Phoenix Theatres Savoy 16 + IMAX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 538799844,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Vero Beach",
+    "zip": "32966",
+    "theater_name": "AMC CLASSIC Indian River 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537317747,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Springfield",
+    "zip": "62711",
+    "theater_name": "AMC Springfield 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538788929,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Beaumont",
+    "zip": "77705",
+    "theater_name": "Cinemark Beaumont 15 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537452954,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Beaumont",
+    "zip": "77705",
+    "theater_name": "Cinemark Beaumont 15 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537452953,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "LA",
+    "city": "Lake Charles",
+    "zip": "70601",
+    "theater_name": "Cinemark Lake Charles and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537097639,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "LA",
+    "city": "Lake Charles",
+    "zip": "70601",
+    "theater_name": "Cinemark Lake Charles and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537126376,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Centreville",
+    "zip": "20121",
+    "theater_name": "Cinemark Centreville",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537581209,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Centreville",
+    "zip": "20121",
+    "theater_name": "Cinemark Centreville",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538871605,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Centreville",
+    "zip": "20121",
+    "theater_name": "Cinemark Centreville",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539059798,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Centreville",
+    "zip": "20121",
+    "theater_name": "Cinemark Centreville",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538871606,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536761722,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538654118,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538994421,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538777857,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536761727,
+    "date": "2026-03-18+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538654119,
+    "date": "2026-03-18+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537520404,
+    "date": "2026-03-18+22:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537520405,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538977499,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538798614,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539060363,
+    "date": "2026-03-18+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538798613,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539126362,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536734363,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536734362,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536749793,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538292189,
+    "date": "2026-03-18+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537298912,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536734361,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536745661,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538883114,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537298910,
+    "date": "2026-03-18+20:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538862932,
+    "date": "2026-03-18+21:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 537425666,
+    "date": "2026-03-18+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 538930227,
+    "date": "2026-03-18+22:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20147",
+    "theater_name": "AMC Loudoun Station 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537966670,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Woodbridge",
+    "zip": "22192",
+    "theater_name": "AMC Potomac Mills 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537877674,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Spokane",
+    "zip": "99201",
+    "theater_name": "AMC River Park Square 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 538859681,
+    "date": "2026-03-18+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Spokane",
+    "zip": "99201",
+    "theater_name": "AMC River Park Square 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 537826120,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537097963,
+    "date": "2026-03-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538982147,
+    "date": "2026-03-18+18:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 537097964,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538661152,
+    "date": "2026-03-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539579077,
+    "date": "2026-03-18+19:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539579076,
+    "date": "2026-03-18+19:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538692092,
+    "date": "2026-03-18+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 538542438,
+    "date": "2026-03-18+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
