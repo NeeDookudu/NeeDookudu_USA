@@ -33193,5 +33193,80 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "AZ",
+    "city": "Phoenix",
+    "zip": "85085",
+    "theater_name": "Harkins Norterra 14",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 539686008,
+    "date": "2026-03-18+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AZ",
+    "city": "Tempe",
+    "zip": "85282",
+    "theater_name": "Harkins Arizona Mills and IMAX",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 539685105,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Wayne",
+    "zip": "07470",
+    "theater_name": "AMC Wayne 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539685248,
+    "date": "2026-03-18+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Covina",
+    "zip": "91722",
+    "theater_name": "AMC Covina 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539684289,
+    "date": "2026-03-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539672746,
+    "date": "2026-03-18+18:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
