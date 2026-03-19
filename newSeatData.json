@@ -33148,5 +33148,50 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Ontario",
+    "zip": "91764",
+    "theater_name": "AMC Ontario Mills 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539683167,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539675610,
+    "date": "2026-03-18+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Franklin",
+    "zip": "37067",
+    "theater_name": "AMC Thoroughbred 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 539687976,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
