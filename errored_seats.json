@@ -33268,5 +33268,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Redwood City",
+    "zip": "94063",
+    "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 539694138,
+    "date": "2026-03-18+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
