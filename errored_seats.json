@@ -36808,5 +36808,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43212",
+    "theater_name": "Lennox Town Center 24",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 542961080,
+    "date": "2026-04-18+17:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
