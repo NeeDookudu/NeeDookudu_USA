@@ -36823,5 +36823,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543554964,
+    "date": "2026-04-18+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
