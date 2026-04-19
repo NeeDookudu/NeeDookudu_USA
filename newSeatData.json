@@ -39853,5 +39853,200 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NY",
+    "city": "Westbury",
+    "zip": "11590",
+    "theater_name": "Regal Westbury IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543001309,
+    "date": "2026-04-19+11:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Westbury",
+    "zip": "11590",
+    "theater_name": "Regal Westbury IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543001295,
+    "date": "2026-04-19+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543556254,
+    "date": "2026-04-19+13:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 542792393,
+    "date": "2026-04-19+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543012253,
+    "date": "2026-04-19+11:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543012254,
+    "date": "2026-04-19+16:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543012255,
+    "date": "2026-04-19+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28277",
+    "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543276038,
+    "date": "2026-04-19+12:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28277",
+    "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543276039,
+    "date": "2026-04-19+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "AMC Carolina Pavilion 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543221795,
+    "date": "2026-04-19+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "AMC Carolina Pavilion 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 542319998,
+    "date": "2026-04-19+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Bartlett",
+    "zip": "38134",
+    "theater_name": "Hollywood 20 Cinema",
+    "chainName": "Bartlett Cinemas",
+    "chainCode": "BART",
+    "showtime_id": 543349593,
+    "date": "2026-04-19+13:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Bartlett",
+    "zip": "38134",
+    "theater_name": "Hollywood 20 Cinema",
+    "chainName": "Bartlett Cinemas",
+    "chainCode": "BART",
+    "showtime_id": 543349594,
+    "date": "2026-04-19+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
