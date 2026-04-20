@@ -43588,5 +43588,110 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "zip": "95130",
+    "theater_name": "AMC Saratoga 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543221062,
+    "date": "2026-04-20+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Newark",
+    "zip": "94560",
+    "theater_name": "AMC NewPark 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543266525,
+    "date": "2026-04-20+15:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Newark",
+    "zip": "94560",
+    "theater_name": "AMC NewPark 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543266518,
+    "date": "2026-04-20+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543124791,
+    "date": "2026-04-20+14:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543124792,
+    "date": "2026-04-20+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543124821,
+    "date": "2026-04-20+19:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Gaithersburg",
+    "zip": "20878",
+    "theater_name": "AMC Rio Cinemas 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543208288,
+    "date": "2026-04-20+14:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
