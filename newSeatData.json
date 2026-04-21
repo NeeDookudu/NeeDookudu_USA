@@ -47008,5 +47008,95 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "OH",
+    "city": "West Chester",
+    "zip": "45069",
+    "theater_name": "AMC West Chester 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543263788,
+    "date": "2026-04-21+13:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Chester",
+    "zip": "45069",
+    "theater_name": "AMC West Chester 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543263768,
+    "date": "2026-04-21+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543554477,
+    "date": "2026-04-21+10:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543554478,
+    "date": "2026-04-21+15:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543554479,
+    "date": "2026-04-21+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33634",
+    "theater_name": "AMC Veterans 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 542907483,
+    "date": "2026-04-21+20:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
