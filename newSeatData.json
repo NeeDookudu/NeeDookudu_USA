@@ -47113,5 +47113,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543881649,
+    "date": "2026-04-21+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
