@@ -47098,5 +47098,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Clovis",
+    "zip": "93612",
+    "theater_name": "Sierra Vista Cinemas 16",
+    "chainName": "SR Entertainment Group",
+    "chainCode": "SREG",
+    "showtime_id": 543156403,
+    "date": "2026-04-21+11:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
   }
 ]
