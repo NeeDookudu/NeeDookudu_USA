@@ -50068,5 +50068,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "zip": "95630",
+    "theater_name": "Cinemark Century Folsom 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543105900,
+    "date": "2026-04-22+12:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "zip": "95630",
+    "theater_name": "Cinemark Century Folsom 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543105899,
+    "date": "2026-04-22+18:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
