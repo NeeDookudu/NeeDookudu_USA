@@ -51973,5 +51973,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "PA",
+    "city": "Bridgeville",
+    "zip": "15017",
+    "theater_name": "CHARTIERS VALLEY LUXURY 14 + PTX ",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544249960,
+    "date": "2026-04-23+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544248291,
+    "date": "2026-04-23+19:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
