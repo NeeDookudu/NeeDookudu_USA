@@ -51643,5 +51643,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TX",
+    "city": "Dallas",
+    "zip": "75234",
+    "theater_name": "Cinemark Dallas XD and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543711263,
+    "date": "2026-04-23+10:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543992453,
+    "date": "2026-04-23+10:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
