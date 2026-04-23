@@ -51673,5 +51673,260 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33647",
+    "theater_name": "AMC Highwoods 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544073744,
+    "date": "2026-04-23+20:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Sterling Heights",
+    "zip": "48314",
+    "theater_name": "AMC Forum 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543948619,
+    "date": "2026-04-23+14:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Auburn Hills",
+    "zip": "48326",
+    "theater_name": "AMC Star Great Lakes 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544048187,
+    "date": "2026-04-23+14:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "KS",
+    "city": "Olathe",
+    "zip": "66062",
+    "theater_name": "AMC Studio 28",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543946993,
+    "date": "2026-04-23+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Livonia",
+    "zip": "48152",
+    "theater_name": "AMC Livonia 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688839,
+    "date": "2026-04-23+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544233370,
+    "date": "2026-04-23+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544171886,
+    "date": "2026-04-23+15:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "zip": "07080",
+    "theater_name": "Regal Hadley Theatre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544221791,
+    "date": "2026-04-23+13:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "zip": "07080",
+    "theater_name": "Regal Hadley Theatre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544221790,
+    "date": "2026-04-23+18:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "New Brunswick",
+    "zip": "08901",
+    "theater_name": "AMC New Brunswick 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543648890,
+    "date": "2026-04-23+13:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "New Brunswick",
+    "zip": "08901",
+    "theater_name": "AMC New Brunswick 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543648865,
+    "date": "2026-04-23+15:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "New Brunswick",
+    "zip": "08901",
+    "theater_name": "AMC New Brunswick 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543648892,
+    "date": "2026-04-23+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688065,
+    "date": "2026-04-23+14:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688066,
+    "date": "2026-04-23+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688056,
+    "date": "2026-04-23+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "zip": "92069",
+    "theater_name": "Regal Edwards San Marcos",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543011941,
+    "date": "2026-04-23+13:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "zip": "92069",
+    "theater_name": "Regal Edwards San Marcos",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543011942,
+    "date": "2026-04-23+18:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
