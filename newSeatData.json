@@ -51928,5 +51928,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544147862,
+    "date": "2026-04-23+15:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544147863,
+    "date": "2026-04-23+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
