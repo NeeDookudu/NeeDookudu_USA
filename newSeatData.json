@@ -53548,5 +53548,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "IL",
+    "city": "Savoy",
+    "zip": "61874",
+    "theater_name": "Phoenix Theatres Savoy 16 + IMAX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544202648,
+    "date": "2026-04-24+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
