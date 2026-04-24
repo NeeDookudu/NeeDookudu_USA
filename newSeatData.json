@@ -53533,5 +53533,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TN",
+    "city": "Bartlett",
+    "zip": "38134",
+    "theater_name": "Hollywood 20 Cinema",
+    "chainName": "Bartlett Cinemas",
+    "chainCode": "BART",
+    "showtime_id": 544208780,
+    "date": "2026-04-24+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
