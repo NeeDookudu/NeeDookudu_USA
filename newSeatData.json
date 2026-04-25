@@ -55093,5 +55093,50 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688228,
+    "date": "2026-04-25+11:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688229,
+    "date": "2026-04-25+16:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688191,
+    "date": "2026-04-25+19:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
