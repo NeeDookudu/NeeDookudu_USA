@@ -56398,5 +56398,155 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128527,
+    "date": "2026-04-26+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128524,
+    "date": "2026-04-26+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128523,
+    "date": "2026-04-26+16:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Cumming",
+    "zip": "30041",
+    "theater_name": "AMC Avenue Forsyth 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543760564,
+    "date": "2026-04-26+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543754360,
+    "date": "2026-04-26+12:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543754373,
+    "date": "2026-04-26+17:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43212",
+    "theater_name": "Lennox Town Center 24",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544223630,
+    "date": "2026-04-26+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bridgeville",
+    "zip": "15017",
+    "theater_name": "CHARTIERS VALLEY LUXURY 14 + PTX ",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544265160,
+    "date": "2026-04-26+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543713681,
+    "date": "2026-04-26+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Oaks",
+    "zip": "19456",
+    "theater_name": "Oaks Center Cinema D-Box & OCX",
+    "chainName": "Veezi Theaters",
+    "chainCode": "VZ",
+    "showtime_id": 543944602,
+    "date": "2026-04-26+14:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
