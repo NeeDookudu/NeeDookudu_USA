@@ -57853,5 +57853,365 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "San Francisco",
+    "zip": "94109",
+    "theater_name": "Apple Cinemas Van Ness",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 544259228,
+    "date": "2026-04-27+16:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544075450,
+    "date": "2026-04-27+15:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543802014,
+    "date": "2026-04-27+16:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543802013,
+    "date": "2026-04-27+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543810819,
+    "date": "2026-04-27+10:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543810820,
+    "date": "2026-04-27+15:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543810821,
+    "date": "2026-04-27+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544221365,
+    "date": "2026-04-27+13:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544221366,
+    "date": "2026-04-27+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544339247,
+    "date": "2026-04-27+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543801637,
+    "date": "2026-04-27+11:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543801638,
+    "date": "2026-04-27+16:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543801639,
+    "date": "2026-04-27+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544219825,
+    "date": "2026-04-27+17:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544219814,
+    "date": "2026-04-27+11:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544219817,
+    "date": "2026-04-27+14:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544219823,
+    "date": "2026-04-27+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "zip": "95630",
+    "theater_name": "Cinemark Century Folsom 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544102017,
+    "date": "2026-04-27+12:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "zip": "95630",
+    "theater_name": "Cinemark Century Folsom 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544102018,
+    "date": "2026-04-27+17:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544167317,
+    "date": "2026-04-27+15:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544167316,
+    "date": "2026-04-27+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543713715,
+    "date": "2026-04-27+13:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543713719,
+    "date": "2026-04-27+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Oaks",
+    "zip": "19456",
+    "theater_name": "Oaks Center Cinema D-Box & OCX",
+    "chainName": "Veezi Theaters",
+    "chainCode": "VZ",
+    "showtime_id": 544010932,
+    "date": "2026-04-27+14:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
