@@ -57508,5 +57508,350 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544085019,
+    "date": "2026-04-27+15:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544085020,
+    "date": "2026-04-27+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544224495,
+    "date": "2026-04-27+16:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544224494,
+    "date": "2026-04-27+20:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Schaumburg",
+    "zip": "60173",
+    "theater_name": "AMC Loews Streets Of Woodfield 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544048505,
+    "date": "2026-04-27+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Cary",
+    "zip": "27518",
+    "theater_name": "Regal Crossroads & IMAX - Cary",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543796992,
+    "date": "2026-04-27+18:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544073370,
+    "date": "2026-04-27+12:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544196005,
+    "date": "2026-04-27+14:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544370098,
+    "date": "2026-04-27+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43212",
+    "theater_name": "Lennox Town Center 24",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544223659,
+    "date": "2026-04-27+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543983463,
+    "date": "2026-04-27+11:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543983457,
+    "date": "2026-04-27+16:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543983458,
+    "date": "2026-04-27+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Bartlett",
+    "zip": "38134",
+    "theater_name": "Hollywood 20 Cinema",
+    "chainName": "Bartlett Cinemas",
+    "chainCode": "BART",
+    "showtime_id": 544208948,
+    "date": "2026-04-27+17:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544160281,
+    "date": "2026-04-27+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544160282,
+    "date": "2026-04-27+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128613,
+    "date": "2026-04-27+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128607,
+    "date": "2026-04-27+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128608,
+    "date": "2026-04-27+16:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Cumming",
+    "zip": "30041",
+    "theater_name": "AMC Avenue Forsyth 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543760592,
+    "date": "2026-04-27+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543754393,
+    "date": "2026-04-27+12:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543754408,
+    "date": "2026-04-27+17:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bridgeville",
+    "zip": "15017",
+    "theater_name": "CHARTIERS VALLEY LUXURY 14 + PTX ",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544238154,
+    "date": "2026-04-27+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
