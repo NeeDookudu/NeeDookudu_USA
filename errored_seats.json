@@ -58708,5 +58708,860 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543983464,
+    "date": "2026-04-28+11:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543983459,
+    "date": "2026-04-28+16:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 543983460,
+    "date": "2026-04-28+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544190702,
+    "date": "2026-04-28+10:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544190703,
+    "date": "2026-04-28+15:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544190704,
+    "date": "2026-04-28+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Allen",
+    "zip": "75013",
+    "theater_name": "Cinemark Allen 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544198168,
+    "date": "2026-04-28+13:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Allen",
+    "zip": "75013",
+    "theater_name": "Cinemark Allen 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544198167,
+    "date": "2026-04-28+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 543831785,
+    "date": "2026-04-28+12:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 543831774,
+    "date": "2026-04-28+14:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 543831771,
+    "date": "2026-04-28+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "Cinemark Frisco Square and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544211117,
+    "date": "2026-04-28+15:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "Cinemark Frisco Square and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544211116,
+    "date": "2026-04-28+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43212",
+    "theater_name": "Lennox Town Center 24",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544223660,
+    "date": "2026-04-28+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "White Plains",
+    "zip": "10601",
+    "theater_name": "Apple Cinemas White Plains",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 544257108,
+    "date": "2026-04-28+17:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Framingham",
+    "zip": "01701",
+    "theater_name": "AMC Framingham 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544049671,
+    "date": "2026-04-28+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Cambridge",
+    "zip": "02138",
+    "theater_name": "Apple Cinemas Cambridge",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 544254346,
+    "date": "2026-04-28+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Schaumburg",
+    "zip": "60173",
+    "theater_name": "AMC Loews Streets Of Woodfield 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544048552,
+    "date": "2026-04-28+14:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544365536,
+    "date": "2026-04-28+14:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 544370559,
+    "date": "2026-04-28+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544167371,
+    "date": "2026-04-28+15:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544167370,
+    "date": "2026-04-28+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "RI",
+    "city": "Providence",
+    "zip": "02903",
+    "theater_name": "Apple Cinemas Providence Place IMAX",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 544199755,
+    "date": "2026-04-28+16:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OR",
+    "city": "Hillsboro",
+    "zip": "97123",
+    "theater_name": "Regal Movies On TV",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544003081,
+    "date": "2026-04-28+12:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OR",
+    "city": "Hillsboro",
+    "zip": "97123",
+    "theater_name": "Regal Movies On TV",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544003080,
+    "date": "2026-04-28+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128632,
+    "date": "2026-04-28+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128629,
+    "date": "2026-04-28+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544128630,
+    "date": "2026-04-28+16:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Cumming",
+    "zip": "30041",
+    "theater_name": "AMC Avenue Forsyth 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543760620,
+    "date": "2026-04-28+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543754436,
+    "date": "2026-04-28+12:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543754438,
+    "date": "2026-04-28+17:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544224498,
+    "date": "2026-04-28+16:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 544224499,
+    "date": "2026-04-28+20:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543803520,
+    "date": "2026-04-28+10:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543803518,
+    "date": "2026-04-28+15:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 543803519,
+    "date": "2026-04-28+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544002491,
+    "date": "2026-04-28+12:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544002530,
+    "date": "2026-04-28+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543692176,
+    "date": "2026-04-28+13:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543692175,
+    "date": "2026-04-28+18:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Austin",
+    "zip": "78759",
+    "theater_name": "Regal Gateway 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543928441,
+    "date": "2026-04-28+12:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Austin",
+    "zip": "78759",
+    "theater_name": "Regal Gateway 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543928445,
+    "date": "2026-04-28+17:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Austin",
+    "zip": "78759",
+    "theater_name": "Regal Gateway 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543928465,
+    "date": "2026-04-28+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544214840,
+    "date": "2026-04-28+13:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544214877,
+    "date": "2026-04-28+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543688420,
+    "date": "2026-04-28+20:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543713750,
+    "date": "2026-04-28+13:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 543713754,
+    "date": "2026-04-28+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Oaks",
+    "zip": "19456",
+    "theater_name": "Oaks Center Cinema D-Box & OCX",
+    "chainName": "Veezi Theaters",
+    "chainCode": "VZ",
+    "showtime_id": 544010965,
+    "date": "2026-04-28+14:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "East Hanover",
+    "zip": "07936",
+    "theater_name": "AMC Loews East Hanover 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543648810,
+    "date": "2026-04-28+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544188667,
+    "date": "2026-04-28+16:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544188666,
+    "date": "2026-04-28+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": " Tysons",
+    "zip": "22102",
+    "theater_name": "LOOK Dine-In Cinemas Tysons at the Boro",
+    "chainName": "LOOK Dine-In Cinemas",
+    "chainCode": "LBC",
+    "showtime_id": 544127758,
+    "date": "2026-04-28+14:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": " Tysons",
+    "zip": "22102",
+    "theater_name": "LOOK Dine-In Cinemas Tysons at the Boro",
+    "chainName": "LOOK Dine-In Cinemas",
+    "chainCode": "LBC",
+    "showtime_id": 544127757,
+    "date": "2026-04-28+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Sterling Heights",
+    "zip": "48314",
+    "theater_name": "AMC Forum 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543948941,
+    "date": "2026-04-28+14:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Livonia",
+    "zip": "48152",
+    "theater_name": "AMC Livonia 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 543798414,
+    "date": "2026-04-28+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Davie",
+    "zip": "33331",
+    "theater_name": "Cinemark Paradise 24 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544133383,
+    "date": "2026-04-28+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
