@@ -60913,5 +60913,95 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544085178,
+    "date": "2026-04-29+15:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544085179,
+    "date": "2026-04-29+20:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Bartlett",
+    "zip": "38134",
+    "theater_name": "Hollywood 20 Cinema",
+    "chainName": "Bartlett Cinemas",
+    "chainCode": "BART",
+    "showtime_id": 544209018,
+    "date": "2026-04-29+17:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "zip": "07080",
+    "theater_name": "Regal Hadley Theatre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544234752,
+    "date": "2026-04-29+11:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "zip": "07080",
+    "theater_name": "Regal Hadley Theatre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544234751,
+    "date": "2026-04-29+16:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "zip": "07080",
+    "theater_name": "Regal Hadley Theatre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544234750,
+    "date": "2026-04-29+20:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
