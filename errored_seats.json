@@ -63148,5 +63148,65 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809810,
+    "date": "2026-05-02+09:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809809,
+    "date": "2026-05-02+14:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809811,
+    "date": "2026-05-02+18:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809812,
+    "date": "2026-05-02+22:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
