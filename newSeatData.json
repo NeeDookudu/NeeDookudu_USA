@@ -63493,5 +63493,320 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544948897,
+    "date": "2026-05-03+11:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544948898,
+    "date": "2026-05-03+16:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544948899,
+    "date": "2026-05-03+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544561138,
+    "date": "2026-05-03+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544932013,
+    "date": "2026-05-03+15:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544932000,
+    "date": "2026-05-03+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544544471,
+    "date": "2026-05-03+09:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544544470,
+    "date": "2026-05-03+14:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809871,
+    "date": "2026-05-03+09:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809870,
+    "date": "2026-05-03+14:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809873,
+    "date": "2026-05-03+18:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544809872,
+    "date": "2026-05-03+20:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 544620132,
+    "date": "2026-05-03+20:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545012625,
+    "date": "2026-05-03+10:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545012628,
+    "date": "2026-05-03+15:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545012636,
+    "date": "2026-05-03+20:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544898654,
+    "date": "2026-05-03+14:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544898668,
+    "date": "2026-05-03+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98008",
+    "theater_name": "Regal Crossroads - Bellevue",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544455618,
+    "date": "2026-05-03+10:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544498202,
+    "date": "2026-05-03+11:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544498204,
+    "date": "2026-05-03+18:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
