@@ -63208,5 +63208,125 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815797,
+    "date": "2026-05-03+11:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815798,
+    "date": "2026-05-03+16:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815799,
+    "date": "2026-05-03+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544544157,
+    "date": "2026-05-03+09:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544544158,
+    "date": "2026-05-03+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545009574,
+    "date": "2026-05-03+10:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545009537,
+    "date": "2026-05-03+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545009565,
+    "date": "2026-05-03+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
