@@ -64063,5 +64063,50 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815849,
+    "date": "2026-05-04+11:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815850,
+    "date": "2026-05-04+16:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815851,
+    "date": "2026-05-04+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
