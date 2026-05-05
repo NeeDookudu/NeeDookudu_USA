@@ -64558,5 +64558,290 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544892980,
+    "date": "2026-05-05+10:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544892981,
+    "date": "2026-05-05+15:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544892982,
+    "date": "2026-05-05+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545073106,
+    "date": "2026-05-05+09:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545073111,
+    "date": "2026-05-05+12:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545073107,
+    "date": "2026-05-05+17:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545073110,
+    "date": "2026-05-05+21:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 544620134,
+    "date": "2026-05-05+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544585651,
+    "date": "2026-05-05+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544544630,
+    "date": "2026-05-05+10:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544544631,
+    "date": "2026-05-05+15:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544932092,
+    "date": "2026-05-05+13:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544932106,
+    "date": "2026-05-05+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544898586,
+    "date": "2026-05-05+14:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30338",
+    "theater_name": "Regal Perimeter Pointe",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544898572,
+    "date": "2026-05-05+18:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545012722,
+    "date": "2026-05-05+13:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545012723,
+    "date": "2026-05-05+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544918816,
+    "date": "2026-05-05+15:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544918815,
+    "date": "2026-05-05+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
