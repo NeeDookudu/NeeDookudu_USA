@@ -64843,5 +64843,110 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544596145,
+    "date": "2026-05-05+10:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 544596144,
+    "date": "2026-05-05+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Cary",
+    "zip": "27518",
+    "theater_name": "Regal Crossroads - Cary",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544623284,
+    "date": "2026-05-05+12:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815902,
+    "date": "2026-05-05+11:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815903,
+    "date": "2026-05-05+16:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 544815904,
+    "date": "2026-05-05+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MA",
+    "city": "Marlborough",
+    "zip": "01752",
+    "theater_name": "Regal Solomon Pond",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544504480,
+    "date": "2026-05-05+15:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
