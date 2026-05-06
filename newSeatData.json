@@ -65398,5 +65398,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa ",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 544974237,
+    "date": "2026-05-06+20:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Sterling Heights",
+    "zip": "48314",
+    "theater_name": "AMC Forum 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 544845844,
+    "date": "2026-05-06+14:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
