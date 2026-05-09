@@ -66523,5 +66523,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545316515,
+    "date": "2026-05-09+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
