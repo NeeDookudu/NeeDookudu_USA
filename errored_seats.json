@@ -66538,5 +66538,230 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545299144,
+    "date": "2026-05-10+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 545722103,
+    "date": "2026-05-10+11:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 545722101,
+    "date": "2026-05-10+16:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 545722102,
+    "date": "2026-05-10+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 545464760,
+    "date": "2026-05-10+15:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 545681716,
+    "date": "2026-05-10+12:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 545681715,
+    "date": "2026-05-10+17:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 545681717,
+    "date": "2026-05-10+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545743687,
+    "date": "2026-05-10+13:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545686412,
+    "date": "2026-05-10+13:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 545424350,
+    "date": "2026-05-10+18:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 545737310,
+    "date": "2026-05-10+11:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 545737309,
+    "date": "2026-05-10+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545816692,
+    "date": "2026-05-10+15:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545816693,
+    "date": "2026-05-10+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
