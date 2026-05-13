@@ -67678,5 +67678,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 545743851,
+    "date": "2026-05-13+13:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
