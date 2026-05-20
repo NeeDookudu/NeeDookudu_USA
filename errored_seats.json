@@ -68713,5 +68713,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 546832347,
+    "date": "2026-05-20+13:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 546676312,
+    "date": "2026-05-20+21:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
